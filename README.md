@@ -118,38 +118,4 @@ Image.fromarray(output_mask).save('predicted_mask.png')
 
 ---
 
-## 📊 Results
 
-| Input Image | Ground Truth | Predicted Mask |
-|--------------|---------------|----------------|
-| ![input](results/input_sample.png) | ![gt](results/gt_sample.png) | ![pred](results/pred_sample.png) |
-
-> *(Add your results images in a `/results` folder and update the links above.)*
-
----
-
-## 🛠️ Customization
-
-You can easily modify this project for your own dataset or task:
-
-- 🧩 Change input/output channels in `UNet` for RGB or multi-class segmentation
-- 🔁 Add data augmentation (flip, rotation, etc.) in `dataset.py`
-- 🧮 Try new loss functions like Dice Loss or Focal Loss
-- 🧠 Integrate learning rate schedulers, early stopping, or TensorBoard logging
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Arun Prakash**  
-🔗 [GitHub Profile](https://github.com/Arunprakash-1903)  
-
-If you find this project helpful, please ⭐ **star** the repo!
-
----
