@@ -4,7 +4,7 @@ A lightweight PyTorch implementation of the **U-Net** architecture for image seg
 This project demonstrates how to build, train, and test a U-Net model using clean, minimal code.
 
 
-![Unet Image](https://assets.digitalocean.com/articles/alligator/boo.svg](https://viso.ai/wp-content/uploads/2024/04/uNet-architecture.png "a title")
+![Tux, the Linux mascot](https://viso.ai/wp-content/uploads/2024/04/uNet-architecture.png)
 ---
 
 ## 🧠 Features
